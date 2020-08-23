@@ -1,2 +1,3 @@
-# Loan-Default-Prediction
-Predicting whether a customer is a loan defaulter or not using Logistic Regression Algorithm.
+# Loan-Default-Prediction-using-Machine-Learning
+
+The Loan Default Prediction System will be useful for the banks to predict whether a customer is/will be a Loan Defaulter for their bank or not. This system analyzes the previous records of the customers(such as Applicant Income, Loan Amount, Loan Amount Term, etc.) and then predicts whether the person will be a defaulter for their bank when they take a loan in the later future or not. The Machine Learning Algorithm used for the same is Logistic Regression as it gives a better accuracy score than the other alogrithms(such as Decision Tree, XG Boost, Naive Bayes, etc.) 
